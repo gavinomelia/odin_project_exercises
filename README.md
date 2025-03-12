@@ -1,7 +1,11 @@
 # odin_project_exercises
 A collection of exercises completed as part of the Odin Project
+- Ruby: https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
+- HTML & CSS: https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css
+- Databases: https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases
+- RSpec Testing Course: https://www.youtube.com/watch?v=K6RPMhcRICE&list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z&index=2
 
-## Ruby Course
+## Ruby Course 
 
 ### Basic Ruby Projects
 - https://github.com/gavinomelia/odin-ruby/tree/main/ruby_basics
